@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "lpvmlv#3351",
+        "name": "BnW",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/932217275820412962\/935871673872318504\/Untitled149_20220126191926.png",
+        "overlay_alpha": 40,
+        "blur_radius": 10
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -8421505,
+        "background": 1191182336,
+        "background_secondary": -687865856
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -1,
+        "uikit_btn_bg_color_selector_red": -6052957,
+        "link_500": -11645362,
+        "uikit_btn_bg_color_selector_white": -6974059
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
